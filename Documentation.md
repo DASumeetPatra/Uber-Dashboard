@@ -4,27 +4,27 @@
 This project started as a general exploratory analysis of Uber ride booking data to understand overall business performance.
 
 ## Step 1: Exploratory Analysis (DB1)
-- Built an exploratory dashboard (DB1) to analyze:
+-- Built an exploratory dashboard (DB1) to analyze:
   - Total bookings, completed rides, cancellations
   - Time-based trends (monthly, weekday/weekend, peak/non-peak)
   - Fare and revenue patterns
   - Vehicle type and location performance
-- During this phase, a high cancellation rate ~38% was identified.
+-- During this phase, a high cancellation rate ~38% was identified.
 
 ## Step 2: Problem Identification
-- The cancellation rate was significantly high and posed a major operational and revenue risk.
-- This insight became the core business problem for further analysis.
+-- The cancellation rate was significantly high and posed a major operational and revenue risk.
+-- This insight became the core business problem for further analysis.
 
 ## Step 3: Deep-Dive Analysis (DB2)
-- Created a second set of dashboards (DB2) focused on:
+-- Created a second set of dashboards (DB2) focused on:
   - Driver vs customer cancellations
   - Cancellation reasons
   - Time-slot and location-based cancellation patterns
   - Vehicle-type impact on cancellations
 
 ## Step 4: Optimization & Recommendations
-- Identified cancellation hotspots by time and location.
-- Proposed data-driven solutions to reduce cancellations and improve platform reliability.
+-- Identified cancellation hotspots by time and location.
+-- Proposed data-driven solutions to reduce cancellations and improve platform reliability.
 
 ## Outcome
 The project evolved from exploration to problem-solving, reflecting a real-world analytics workflow.
