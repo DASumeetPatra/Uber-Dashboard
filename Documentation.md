@@ -4,7 +4,7 @@
 This project started as a general exploratory analysis of Uber ride booking data to understand overall business performance.
 
 ## Step 1: Exploratory Analysis (DB1)
--- Built an exploratory dashboard (DB1) to analyze:
+- Built an exploratory dashboard (DB1) to analyze:
   - Total bookings, completed rides, cancellations
   - Time-based trends (monthly, weekday/weekend, peak/non-peak)
   - Fare and revenue patterns
