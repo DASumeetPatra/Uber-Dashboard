@@ -11,7 +11,7 @@ Both phases are implemented within a **single Power BI file**, logically divided
 - **DB1 – Exploratory Analysis**
 - **DB2 – Cancellation Analysis & Optimization**
 
----
+
 
 ## Business Problem
 A significant percentage of ride bookings were being cancelled, leading to revenue loss and poor customer experience.
@@ -21,7 +21,7 @@ The objective of this project is to:
 - Understand root causes
 - Propose data-driven solutions to reduce cancellations
 
----
+
 
 ## Dashboard Structure
 
@@ -35,9 +35,9 @@ Includes:
 - Fare and payment analysis
 - Vehicle type and location performance
 
-**Key discovery from DB1:** High cancellation rate (~38%)
+**Key discovery from DB1:** High cancellation rate ~38%
 
----
+
 
 ### DB2 – Cancellation Analysis & Optimization
 Purpose: To deep-dive into the cancellation problem identified in DB1.
@@ -49,7 +49,7 @@ Includes:
 - Vehicle-type impact on cancellations
 - Identification of cancellation hotspots
 
----
+
 
 ## Key Insights
 - Approximately **38% of total ride bookings are cancelled**
@@ -58,7 +58,7 @@ Includes:
 - Economy vehicle types dominate bookings and cancellations
 - Medium-distance rides contribute the most to overall revenue
 
----
+
 
 ## Recommendations
 - Introduce zone- and time-based driver incentives
@@ -67,7 +67,7 @@ Includes:
 - Optimize surge pricing logic
 - Reduce dependency on cash payments
 
----
+
 
 ## Tools Used
 - Power BI
@@ -75,7 +75,7 @@ Includes:
 - Excel / CSV
 - Data Modeling & Time Intelligence
 
----
+
 
 ## Project Files & Access
 - Dashboard screenshots are available in the `Dashboards/` folder
@@ -86,6 +86,6 @@ Includes:
 
 ---
 
-## 👤 Author
+## Author
 **Sumeet Patra**  
 Data Analyst | Power BI | SQL | Python
