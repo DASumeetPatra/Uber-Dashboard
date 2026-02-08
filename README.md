@@ -119,9 +119,6 @@ Includes:
 ---
 
 ## Power BI File
-**Download (.pbix):**  
-https://drive.google.com/file/d/1SkltWbqFdFlyX1vbhicQKG0436kPB9m_/view?usp=drive_link
-
 https://app.powerbi.com/links/c_8cmFMKdE?ctid=61e6000a-7d75-4846-9c6b-60c345837481&pbi_source=linkShare
 
 ---
