@@ -82,7 +82,14 @@ Includes:
 - DAX measures (optional) are documented in the `DAX/` folder
 - Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externally
 
+
+## Dashboard Screenshots
+- Home Page
+  Dashboard/DB Home Page.png
+  
 **Power BI File Download:** https://drive.google.com/file/d/1SkltWbqFdFlyX1vbhicQKG0436kPB9m_/view?usp=drive_link
+
+
 
 ---
 
