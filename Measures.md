@@ -1,4 +1,4 @@
-      total_bookings = COUNT(master_table[booking_id]), 
+       total_bookings = COUNT(master_table[booking_id]), 
        completed_rides = COUNT(completed_rides[booking_id]), 
        cancelled_rides = CALCULATE(COUNT(master_table[booking_id]),master_table[booking_status] <> "Completed"), 
        cancellation % = ROUNDUP(DIVIDE([cancelled_rides],[total_bookings],0)*100,2)&"%", 
